@@ -43,3 +43,8 @@ Partner Customised Workshop Agenda:
 *	Discuss source code hosting structure (monorepo, multi-repo) (30 mins)
 *	Demo [Java to Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/how-to-github-actions?pivots=programming-language-java) and [Java to Azure Kubernetes Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-to-azure-kubernetes-service) (1 hour)
 *	Retrospective and next steps (30 mins)
+
+# Resources
+
+* [DevOps checklist on Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops)
+* [A collection of all demos managed by GitHub](https://github.com/octodemo)
