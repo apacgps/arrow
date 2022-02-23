@@ -23,8 +23,8 @@ This document goes through the high level agenda of the workshop as well as a fe
 
 Partner Customised Workshop Agenda:
 
-*	Start with GitHub Free, discuss Organizations and teams (see [The GitHub Guide to Organizations](https://resources.github.com/downloads/github-guide-to-organizations.pdf) and (Organizations and teams - GitHub Docs)[https://docs.github.com/en/organizations]) (30 mins)
-*	(Connect GitHub environment to Azure)[https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Cwindows] (30 mins)
+*	Start with GitHub Free, discuss Organizations and teams (see [The GitHub Guide to Organizations](https://resources.github.com/downloads/github-guide-to-organizations.pdf) and [Organizations and teams - GitHub Docs](https://docs.github.com/en/organizations)) (30 mins)
+*	[Connect GitHub environment to Azure](https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Cwindows) (30 mins)
 *	Discuss source code hosting structure (monorepo, multi-repo) (30 mins)
 *	Demo [Node.js to Azure App Service workflow](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-nodejs-to-azure-app-service) (1 hour)
 *	Retrospective and next steps (30 mins)
