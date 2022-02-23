@@ -37,9 +37,9 @@ Partner Customised Workshop Agenda:
 
 Partner Customised Workshop Agenda:
 
-*	Start with GitHub Enterprise, discuss Organizations, Teams and Advanced Security (see [The GitHub Guide to Organizations](https://resources.github.com/downloads/github-guide-to-organizations.pdf) and (Organizations and teams - GitHub Docs)[https://docs.github.com/en/organizations]) (30 mins)
+*	Start with GitHub Enterprise, discuss Organizations, Teams and Advanced Security (see [The GitHub Guide to Organizations](https://resources.github.com/downloads/github-guide-to-organizations.pdf) and [Organizations and teams - GitHub Docs](https://docs.github.com/en/organizations)) (30 mins)
 *	[GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) (15mins)
-*	(Connect GitHub environment to Azure)[https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Cwindows] (30 mins)
+*	[Connect GitHub environment to Azure](https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Cwindows) (30 mins)
 *	Discuss source code hosting structure (monorepo, multi-repo) (30 mins)
 *	Demo [Java to Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/how-to-github-actions?pivots=programming-language-java) and [Java to Azure Kubernetes Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-to-azure-kubernetes-service) (1 hour)
 *	Retrospective and next steps (30 mins)
