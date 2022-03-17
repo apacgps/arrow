@@ -44,6 +44,13 @@ Partner Customised Workshop Agenda:
 *	Demo [Java to Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/how-to-github-actions?pivots=programming-language-java) and [Java to Azure Kubernetes Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-to-azure-kubernetes-service) (1 hour)
 *	Retrospective and next steps (30 mins)
 
+## Azure Kubernetes Service apps deployment
+
+* Deploy an AKS cluster, set up azure cli and configure kubectl to connect to your cluster following this guide: https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
+* Activate the HTTP Routing addon in your AKS cluster following this guide: https://docs.microsoft.com/en-us/azure/aks/http-application-routing
+* Using your GitHub account fork this repo into your account (or use your own GitHub repository with your own app): https://github.com/Azure-Samples/azure-voting-app-redis
+* Deploy using GitHub Actions into Azure Kubernetes Service: https://azure.github.io/kube-labs/1-github-actions.html#objective-of-the-lab
+
 # Resources
 
 * [DevOps checklist on Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops)
