@@ -44,9 +44,9 @@ Partner Customised Workshop Agenda:
 *	Demo [Java to Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/how-to-github-actions?pivots=programming-language-java) and [Java to Azure Kubernetes Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-to-azure-kubernetes-service) (1 hour)
 *	Retrospective and next steps (30 mins)
 
-## Intelligent Cloud Native Apps deployment
+## Intelligent Cloud Native Apps
 
-* The App is a .Net service, and the customer is interested in deploying it to Cloud Native services such as Azure Kubernetes Service or Azure Container Apps. 
+* The backend service is written in ASP.Net, and the customer is interested in deploying it to Cloud Native services such as Azure Kubernetes Service or Azure Container Apps. 
 * The customer wants to understand the benefits of using Azure API Management to manage their APIs.
 * The customer is comparing between Azure Kubernetes Service and Azure Container Apps. They want to understand more about deploying AI services and models to the container services.
 
@@ -56,9 +56,9 @@ Partner Customized Workshop Agenda:
 * Compare the differences between Azure Kubernetes Service and Azure Container Apps (15min)
 * Discuss the advantages of using API Management, API policies and the developer portal (15min)
 * Discuss the use of Azure Cognitive Search and how it can be integrated to Azure Functions (30min)
-* Discuss the use of automated ML with Azure Machine Learning, and how it can be deployed to AKS or other container services (30min)
+* Discuss the use of Azure Machine Learning and automated ML, and how models can be deployed to AKS or other container services (30min)
 
-* Demo an operationalAKS Cluster, and it's autoscaling behaviour (15min)
+* Demo an operational AKS Cluster, and it's autoscaling, autohealing capability (15min)
 * Demo Azure API Management, API policies, and the developer portal (15min)
 * Demo Azure Cognitive Search and how it can be used to search indexed documents (15min)
 * Demo deployment of AI Models from Azure Machine Learning to Azure Container Apps  (15min)
