@@ -44,12 +44,26 @@ Partner Customised Workshop Agenda:
 *	Demo [Java to Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/how-to-github-actions?pivots=programming-language-java) and [Java to Azure Kubernetes Service](https://docs.github.com/en/actions/deployment/deploying-to-your-cloud-provider/deploying-to-azure/deploying-to-azure-kubernetes-service) (1 hour)
 *	Retrospective and next steps (30 mins)
 
-## Azure Kubernetes Service apps deployment
+## Intelligent Cloud Native Apps
 
-* Deploy an AKS cluster, set up azure cli and configure kubectl to connect to your cluster following this guide: https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
-* Activate the HTTP Routing addon in your AKS cluster following this guide: https://docs.microsoft.com/en-us/azure/aks/http-application-routing
-* Using your GitHub account fork this repo into your account (or use your own GitHub repository with your own app): https://github.com/Azure-Samples/azure-voting-app-redis
-* Deploy using GitHub Actions into Azure Kubernetes Service: https://azure.github.io/kube-labs/1-github-actions.html#objective-of-the-lab
+* The backend service is written in ASP.Net, and the customer is interested in deploying it to Cloud Native services such as Azure Kubernetes Service or Azure Container Apps. 
+* The customer wants to understand the benefits of using Azure API Management to manage their APIs.
+* The customer is comparing between Azure Kubernetes Service and Azure Container Apps. They want to understand more about deploying AI services and models to the container services.
+
+Partner Customized Workshop Agenda:
+
+* Discuss about Azure cloud native services across Containers, Serverless, APIS, and Data (30min)
+* Compare the differences between Azure Kubernetes Service and Azure Container Apps (15min)
+* Discuss the advantages of using API Management, API policies and the developer portal (15min)
+* Discuss the use of Azure Cognitive Search and how it can be integrated to Azure Functions (30min)
+* Discuss the use of Azure Machine Learning and automated ML, and how models can be deployed to AKS or other container services (30min)
+
+* Demo an operational AKS Cluster, and it's autoscaling, autohealing capability (15min)
+* Demo Azure API Management, API policies, and the developer portal (15min)
+* Demo Azure Cognitive Search and how it can be used to search indexed documents (15min)
+* Demo deployment of AI Models from Azure Machine Learning to Azure Container Apps  (15min)
+*	Retrospective and next steps (30 mins)
+
 
 # Resources
 
